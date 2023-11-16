@@ -1,7 +1,7 @@
 public class TASK3 {
     public static void main(String[] args) {
 
-        int randomNumber = (int)(Math.random()*100)+1;
+        int randomNumber = (int)(Math.random()*100+1);
 
         String result= (randomNumber %2==0)? "even" :"odd";
 

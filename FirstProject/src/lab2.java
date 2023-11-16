@@ -7,7 +7,7 @@ public class lab2 {
 
         earthWeight=58;
         marsWeight=(earthWeight*0.38F);
-        System.out.println(earthWeight + "kg on earth is" + marsWeight +"kg on mars is ");
+        System.out.println(earthWeight + "kg on earth is" + marsWeight +"kg on mars  ");
 
         marsWeightInDouble=marsWeight;
         System.out.println("KG on Mars after converting to double" + marsWeightInDouble);

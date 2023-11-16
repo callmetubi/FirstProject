@@ -18,7 +18,6 @@ public class TwoDimensionalArray {
             diagonalSum += matrix[i][i];
         }
 
-        // Display the matrix
         System.out.println("Matrix:");
         for (int[] row : matrix) {
             for (int value : row) {
